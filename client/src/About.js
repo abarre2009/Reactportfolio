@@ -7,10 +7,10 @@ function About() {
         <p>
           <b>
             Hello Everyone, My name is Abdul Barre. Recently graduated from the
-            University of Minnesota coding bootcamp with a full stack developer
-            certificate and I curently work as a Desktop Support Analyst for
+            University of Minnesota coding bootcamp as a full stack web
+            developer and I'm currently working as a Desktop Support Analyst for
             Blackbaud. I'm hoping to utilize my new found skills with the MERN
-            stack for my next role.
+            stack in the future.
           </b>
         </p>
 
@@ -28,7 +28,7 @@ function About() {
         </p>
         <p>
           Resume:
-          <a href="https://dochub.com/abdullahibarre/3jX8mgY/resum">
+          <a href="https://docs.google.com/document/d/1zBydGGdvkRFJ5v7injq53UriXaY2eSzObbDPrLt_WTw/edit">
             click here
           </a>
         </p>
