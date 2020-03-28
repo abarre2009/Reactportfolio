@@ -108,3 +108,12 @@ h1 {
     #093028
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
+.Giphy-pro {
+  float: left;
+}
+
+.card2 {
+  float: right;
+  margin: 40px;
+  padding: 40px;
+}
