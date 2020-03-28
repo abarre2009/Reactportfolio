@@ -9,6 +9,14 @@ function Contact() {
         <Grid className="contact-grid">
           <Cell col={6}>
             <h2>Abdul Barre</h2>
+            <img
+              src="http://imageshack.com/a/img924/2283/ajO1hT.png"
+              alt="avatar"
+              style={{ height: "250px" }}
+            />
+            <p style={{ width: "75%", margin: "auto", paddingTop: "1em" }}>
+              <h5> Feel Free to reach out at anytime.</h5>
+            </p>
           </Cell>
           <Cell col={6}>
             <h2>Contact Me</h2>
