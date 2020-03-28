@@ -18,18 +18,20 @@ function About() {
 
         <p>
           GitHub:
-          <a href="https://github.com/abarre2009">click here</a>
+          <a href="https://github.com/abarre2009">
+            https://github.com/abarre2009
+          </a>
         </p>
         <p>
           LinkedIn:
           <a href="https://www.linkedin.com/in/abdullahi-barre-988b56167/">
-            click here
+            https://www.linkedin.com/in/abdullahi-barre-988b56167/
           </a>
         </p>
         <p>
           Resume:
           <a href="https://docs.google.com/document/d/1zBydGGdvkRFJ5v7injq53UriXaY2eSzObbDPrLt_WTw/edit">
-            click here
+            https://docs.google.com/document/d/1zBydGGdvkRFJ5v7injq53UriXaY2eSzObbDPrLt_WTw
           </a>
         </p>
 
