@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 import Nav from "./Nav";
-import Skills from "./Skills";
+import Contact from "./Contact";
 import Projects from "./projects";
 import About from "./About";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
@@ -16,7 +16,7 @@ function App() {
           <Route path="/" exact component={Home} />
           <Route path="/about" exact component={About} />
           <Route path="/projects" exact component={Projects} />
-          <Route path="/skills" exact component={Skills} />
+          <Route path="/Contact" exact component={Contact} />
         </Switch>
       </div>
     </Router>
@@ -24,7 +24,7 @@ function App() {
 }
 const Home = () => (
   <div>
-    <h1>Home Page</h1>
+    <h1>Welcome to my portfolio.</h1>
   </div>
 );
 

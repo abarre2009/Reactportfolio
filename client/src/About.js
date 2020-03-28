@@ -33,14 +33,12 @@ function About() {
           </a>
         </p>
 
-        <h4>Contact Info</h4>
-
-        <p>
-          <b>Email: </b>abarre2009@gmail.com
+        {/* <p>
+          <b>HTML </b>
         </p>
         <p>
-          <b>Phone: </b>(612) 407-7781
-        </p>
+          <b>CSS </b>(
+        </p> */}
       </div>
     </div>
   );
