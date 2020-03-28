@@ -33,12 +33,17 @@ function About() {
           </a>
         </p>
 
-        {/* <p>
-          <b>HTML </b>
+        <h4>Skills</h4>
+
+        <p>
+          <b>HTML</b>
         </p>
         <p>
-          <b>CSS </b>(
-        </p> */}
+          <b>CSS</b>
+        </p>
+        <p>
+          <b>Javascript</b>
+        </p>
       </div>
     </div>
   );
