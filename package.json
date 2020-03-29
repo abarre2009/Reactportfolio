@@ -8,19 +8,8 @@
     "npm": "6.4.1"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/abarre2009/Reactportfolio.git"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/abarre2009/Reactportfolio/issues"
-  },
-  "homepage": "https://github.com/abarre2009/Reactportfolio#readme"
+  "license": "ISC"
 }
