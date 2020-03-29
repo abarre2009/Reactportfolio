@@ -42,7 +42,7 @@ function About() {
 
         <p>
           <h5>
-            <b>HTML</b>
+            <b> HTML | CSS | Javascript | jQuery | React | Express | Node </b>
           </h5>
         </p>
         <p>
