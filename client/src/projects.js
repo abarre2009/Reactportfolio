@@ -25,7 +25,7 @@ function Projects() {
               "url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT25ZU4SEpMmV6IgLuXL1ZRKJtbeHAK4TP76pv_POgoBGIZ1eZl) center / cover"
           }}
         ></CardTitle>
-        <CardText>Favorite Gyphy Storage App</CardText>
+        <CardText>Favorite Giphy Storage App</CardText>
         <CardActions border>
           <Button href={"https://giphyapp017co.herokuapp.com"} colored>
             Live Demo

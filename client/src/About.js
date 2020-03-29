@@ -38,16 +38,23 @@ function About() {
           </a>
         </p>
 
-        <h4>Skills</h4>
+        <h2>Skills</h2>
 
         <p>
-          <b>HTML</b>
+          <h5>
+            <b>HTML</b>
+          </h5>
         </p>
         <p>
-          <b>CSS</b>
+          <h5>
+            {" "}
+            <b>CSS</b>
+          </h5>
         </p>
         <p>
-          <b>Javascript</b>
+          <h5>
+            <b>Javascript</b>
+          </h5>
         </p>
       </div>
     </div>
