@@ -15,7 +15,7 @@ function Contact() {
               style={{ height: "250px" }}
             />
             <p style={{ width: "75%", margin: "auto", paddingTop: "1em" }}>
-              <h5> Feel Free to reach out at anytime.</h5>
+              <h5> Welcome </h5>
             </p>
           </Cell>
           <Cell col={6}>

@@ -6,11 +6,14 @@ function About() {
       <div>
         <p>
           <b>
-            Hello Everyone, My name is Abdul Barre. Recently graduated from the
-            University of Minnesota coding bootcamp as a full stack web
-            developer and I'm currently working as a Desktop Support Analyst for
-            Blackbaud. I'm hoping to utilize my new found skills with the MERN
-            stack in the future.
+            full stack web developer Currently working as a Desktop Support
+            Analyst. Have experience working with a lot of different
+            technoligies including POS systems, Paging systems, End user
+            devices, motion sensors, bed sensors, and more. I got an associates
+            degree from North Hennepin Community College and a Full Stack
+            Developer Cerificate at the University of Minnesota. I'm hoping to
+            utilize my new found skills in a developer role using the MERN
+            stack.
           </b>
         </p>
 
