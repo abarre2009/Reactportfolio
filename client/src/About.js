@@ -42,18 +42,11 @@ function About() {
 
         <p>
           <h5>
-            <b> HTML | CSS | Javascript | jQuery | React | Express | Node </b>
-          </h5>
-        </p>
-        <p>
-          <h5>
-            {" "}
-            <b>CSS</b>
-          </h5>
-        </p>
-        <p>
-          <h5>
-            <b>Javascript</b>
+            <b>
+              {" "}
+              HTML | CSS | Javascript | jQuery | React | Express | Node | MySQL
+              | Mongo{" "}
+            </b>
           </h5>
         </p>
       </div>
