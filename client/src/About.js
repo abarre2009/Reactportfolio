@@ -27,8 +27,8 @@ function About() {
         </p>
         <p>
           LinkedIn:
-          <a href="https://www.linkedin.com/in/abdullahi-barre-988b56167/">
-            https://www.linkedin.com/in/abdullahi-barre-988b56167/
+          <a href="https://www.linkedin.com/in/abdul-barre-988b56167/">
+            https://www.linkedin.com/in/abdul-barre-988b56167/
           </a>
         </p>
         <p>
