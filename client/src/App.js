@@ -1,9 +1,9 @@
 import React from "react";
 import "./App.css";
 import Nav from "./Nav";
-import Contact from "./Contact";
-import Projects from "./projects";
-import About from "./About";
+import Contact from "./components/Contact";
+import Projects from "./components/projects";
+import About from "./components/About";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 function App() {
