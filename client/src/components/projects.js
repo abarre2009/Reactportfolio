@@ -30,6 +30,9 @@ function Projects() {
           <Button href={"https://giphyapp017co.herokuapp.com"} colored>
             Live Demo
           </Button>
+          <Button href={"https://github.com/abarre2009/Giphyapp"} colored>
+            Github Repo
+          </Button>
         </CardActions>
         <CardMenu style={{ color: "#fff" }}></CardMenu>
       </Card>
@@ -49,6 +52,9 @@ function Projects() {
         <CardActions border>
           <Button href={"https://morning-lake-75256.herokuapp.com/"} colored>
             Live Demo
+          </Button>
+          <Button href={"https://github.com/abarre2009/UserDirectory"} colored>
+            Github Repo
           </Button>
         </CardActions>
         <CardMenu style={{ color: "#fff" }}></CardMenu>
@@ -72,6 +78,14 @@ function Projects() {
             colored
           >
             Live Demo
+          </Button>
+          <Button
+            href={
+              "https://github.com/abarre2009/abarre2009.github.io/tree/master/Homework05"
+            }
+            colored
+          >
+            Github Repo
           </Button>
         </CardActions>
         <CardMenu style={{ color: "#fff" }}></CardMenu>
@@ -97,6 +111,12 @@ function Projects() {
             colored
           >
             Live Demo
+          </Button>
+          <Button
+            href={"https://github.com/abarre2009/team-fullhouse-project-1"}
+            colored
+          >
+            Github Repo
           </Button>
         </CardActions>
         <CardMenu style={{ color: "#fff" }}></CardMenu>
