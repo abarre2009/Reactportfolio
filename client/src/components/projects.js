@@ -26,10 +26,9 @@ function Projects() {
           }}
         ></CardTitle>
         <CardText>
-          <b>
-            Favorite Giphy Storage App is an app where you can search and save
-            your favorite Gif.
-          </b>
+          <b>Favorite Giphy Storage App.</b>
+          <br />
+          This application allows you to search and save your favorite Giphys.
         </CardText>
         <CardActions border>
           <Button href={"https://giphyapp017co.herokuapp.com"} colored>
@@ -54,10 +53,8 @@ function Projects() {
           }}
         ></CardTitle>
         <CardText>
-          <b>
-            Employee directory app that allows you to search for employees in
-            the system.
-          </b>
+          <b>Employee directory app.</b> <br />
+          An application that allows you to search for employees in the system.
         </CardText>
         <CardActions border>
           <Button href={"https://morning-lake-75256.herokuapp.com/"} colored>
@@ -82,10 +79,8 @@ function Projects() {
           }}
         ></CardTitle>
         <CardText>
-          <b>
-            Day Planner App is an app where you can set your schedule for the
-            day
-          </b>
+          <b>Day Planner App. </b> <br />
+          This application can be used to set your daily schedule.
         </CardText>
         <CardActions border>
           <Button
@@ -118,10 +113,9 @@ function Projects() {
           }}
         ></CardTitle>
         <CardText>
-          <b>
-            Voting Info App is an application that can be used to find voting
-            info in your area such as candidates and polling station{" "}
-          </b>
+          <b>Voting Info App.</b>
+          <br /> This is an application that can be used to find voting info in
+          your area such as candidates and polling station.
         </CardText>
         <CardActions border>
           <Button
